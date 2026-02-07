@@ -30,11 +30,6 @@ public class Q2
         //Sorts arr[] in ascending order
         Arrays.sort(arr);
 
-        System.out.println("Names Sorted in Ascending Order: ");
-        System.out.printf("1. " + arr[0]);
-        System.out.println("2. " + arr[1]);
-        System.out.println("3. " + arr[2]);
-
         System.out.println("Names Sorted in Ascending Order:");
         System.out.println("1. " + arr[0]);
         System.out.println("2. " + arr[1]);
